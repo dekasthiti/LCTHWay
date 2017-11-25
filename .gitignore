@@ -1,0 +1,8 @@
+#Ignore everything
+*
+
+#Except those with extensions
+!*.*
+
+#Do ignore Debug symbols
+*.dSYM/
